@@ -1,0 +1,169 @@
+body{
+    background-color: black;
+}
+
+.custom_nav {
+    background: rgba(0, 0, 0, 0.488);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    letter-spacing: 3px;
+}
+
+.color-nav{
+    color:rgb(255, 255, 255);
+}
+
+#image1 {
+    width: 100%;
+    height: 150vh;
+    background: url("../images/main-bg.jpg") top center;
+    background-size: cover;
+    position:relative;
+  }
+
+  #image2 {
+    width: 100%;
+    height: 80vh;
+    background: url("../images/the-games-bg.jpg") top center;
+    background-size: cover;
+    position: relative;
+  }
+
+  #image3 {
+    width: 100%;
+    height: 120vh;
+    background: url("../images/features.jpg") top center;
+    background-size: cover;
+    position: relative;
+  }
+
+  #image4 {
+    width: 100%;
+    height: 120vh;
+    background: url("../images/requirements.png") top center;
+    background-size: cover;
+    position: relative;
+  }
+
+  #image5 {
+    width: 100%;
+    height: 100vh;
+    background: url("../images/top-score-bg.png") top center;
+    background-size: cover;
+    position: relative;
+  }
+
+  #image6 {
+    width: 50%;
+    height: 100vh;
+    background: url("../images/skull.png") top center;
+    background-size: cover;
+    position: relative;
+  }
+
+  
+.banner{
+    padding-top: 300px;
+    color: aliceblue;
+    font-weight: bold;
+    /* font-size: 80px; */
+    letter-spacing: 5px;
+}
+
+.requirement{
+    padding-top: 80px;
+    color: aliceblue;
+    font-family:'arial';
+    /* font-size: 80px; */
+    letter-spacing: 5px;
+}
+
+p{
+    color: rgb(195, 198, 201);
+    font-size: 24px;
+    font-family:'arial';
+    letter-spacing: 5px;
+}
+
+h2{
+    font-size: 56px;
+}
+
+
+.li-custom{
+    font-size: 24px;
+    font-family:'Open Sans';
+    color: rgb(255, 174, 0);
+    padding: 10px;
+}
+
+.td1{
+    font-size: 24px;
+    font-family:'Open Sans';
+    color: rgb(255, 174, 0);
+    padding: 5px;
+    border: 1px solid rgb(114, 114, 114);
+    border-collapse: collapse;
+}
+
+.td2{
+    font-size: 18px;
+    font-family:'Open Sans';
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border: 0px solid rgb(114, 114, 114);
+    border-collapse: collapse;
+}
+
+.p-card{
+    color: rgb(255, 174, 0);
+    font-size: 24px;
+    font-family:'arial';
+    letter-spacing: 2px;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+
+.sp-card{
+    color: rgb(148, 148, 148);
+    font-size: 18px;
+    font-family:'arial';
+    letter-spacing: 2px;
+    padding-top: 0px;
+    margin-left: 10px;
+}
+
+.sp-card2{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family:'arial';
+    letter-spacing: 2px;
+    padding-top: 0px;
+    margin-left: 10px;
+}
+
+.sp-card3{
+    color: rgb(148, 148, 148);
+    font-size: 12px;
+    font-family:'arial';
+    letter-spacing: 2px;
+    padding-top: 0px;
+    margin-left: 10px;
+}
+
+.top-score{
+    padding-top: 0px;
+    color: aliceblue;
+    font-family:'arial';
+    /* font-size: 80px; */
+    letter-spacing: 3px;
+}
+
+.skull1{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family:'arial';
+    letter-spacing: 2px;
+    padding-top: 0px;
+    margin-left: 10px;
+}
